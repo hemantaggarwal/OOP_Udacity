@@ -1,4 +1,3 @@
-package word.count;
 import java.util.*;
 import java.io.*;
 
